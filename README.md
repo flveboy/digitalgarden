@@ -12,3 +12,4 @@ Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
 - 做了下测试，部署后成功
 - 样式不是很好看
 - 不打算继续更新
+<https://loongdiary.netlify.app/>
