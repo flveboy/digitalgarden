@@ -7,3 +7,8 @@ See the README in the plugin repo for information on how to set it up.
 ---
 ## Docs
 Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+
+**这是我创建的第一个数字花园**
+- 做了下测试，部署后成功
+- 样式不是很好看
+- 不打算继续更新
